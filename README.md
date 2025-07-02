@@ -108,12 +108,9 @@ RAG-Vector-embeddings/
 
 ---
 
-## 🧠 License
-
-This project is open-source under the MIT License.
 
 ---
 
-## ✨ Author
+## ✨
 
 Made with ❤️ by **[Solanki Sarkar](https://github.com/solanki505)**
